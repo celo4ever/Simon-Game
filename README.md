@@ -7,7 +7,7 @@ Each key is linked to an electronic sound which will help the player to memorize
 
 ![GitHub Logo](/resources/Simon.gif)
 
-## Instrucions
+## Instructions
 
 * Press A to START the game
 * Wait to Simon indicate you what button you have to press 🔊
