@@ -5,7 +5,7 @@ Each key is linked to an electronic sound which will help the player to memorize
 
 ## ScreenShots
 
-![GitHub Logo](/images/giffi.gif)
+![GitHub Logo](/resources/Simon.gif)
 
 ## Instrucions
 
@@ -16,6 +16,6 @@ Each key is linked to an electronic sound which will help the player to memorize
 
 Enjoy! 🎉
 
-## Link
+## LET'S PLAY!
 
-https://celo4ever.github.io/PersonalWebPage/
+https://celo4ever.github.io/Simon-Game/
